@@ -1,0 +1,7 @@
+
+# Out files
+*.out
+
+# Binaries
+debug
+kx-ipmd5-brute
